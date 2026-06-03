@@ -470,6 +470,21 @@
             "category": "Dinner",
             "status": "Draft",
             "notes": ""
+          },
+          {
+            "event_no": 13,
+            "session_id": "D2-E13",
+            "start_time": "21:00:00",
+            "end_time": "21:30:00",
+            "agenda_topic": "Transit to Leela Hotel",
+            "description": "A smooth transit window for participants to move to Leela Hotel after the \nevening dinner engagement.",
+            "location": "Leela Hotel",
+            "attendees": "",
+            "owner": "",
+            "duration_min": 135,
+            "category": "Other",
+            "status": "Draft",
+            "notes": ""
           }
         ]
       },
@@ -707,10 +722,10 @@
           {
             "event_no": 16,
             "session_id": "D3-E16",
-            "start_time": "18:00",
+            "start_time": "",
             "end_time": "",
             "agenda_topic": "End",
-            "description": "End of the visit schedule.",
+            "description": "A warm close to the Bengaluru ICC experience leaving leaders with lasting memories of human connection, bold technology, and Takeda’s shared commitment to building a brighter, more innovative future together.",
             "location": "",
             "attendees": "",
             "owner": "",
@@ -1311,6 +1326,24 @@
       "_image_candidates_validated": true
     },
     {
+      "day": 2,
+      "date": "June 10, 2026",
+      "day_title": "Learning from peers",
+      "day_theme": "Data capabilities, business immersion, and final alignment",
+      "event_no": 13,
+      "time": "21:00:00 - 21:30:00",
+      "topic": "Transit to Leela Hotel",
+      "description": "A smooth transit window for participants to move to Leela Hotel after the \nevening dinner engagement.",
+      "location": "Leela Hotel",
+      "duration_min": "135",
+      "category": "Other",
+      "status": "Draft",
+      "briefing_book_disc": "This session focuses on Transit to Leela Hotel. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
+      "display_description": "A smooth transit window for participants to move to Leela Hotel after the evening dinner engagement.",
+      "narration_script": "Day 2 - Transit to Leela Hotel. A smooth transit window for participants to move to Leela Hotel after the evening dinner engagement.",
+      "_image_candidates_validated": true
+    },
+    {
       "day": 3,
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
@@ -1590,14 +1623,13 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 16,
-      "time": "18:00 - ",
       "topic": "End",
-      "description": "End of the visit schedule.",
+      "description": "A warm close to the Bengaluru ICC experience leaving leaders with lasting memories of human connection, bold technology, and Takeda’s shared commitment to building a brighter, more innovative future together.",
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on End. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "End of the visit schedule.",
-      "narration_script": "Day 3 - End. End of the visit schedule.",
+      "display_description": "A warm close to the Bengaluru ICC experience leaving leaders with lasting memories of human connection, bold technology, and Takeda’s shared commitment to building a brighter, more innovative future together.",
+      "narration_script": "Day 3 - End. A warm close to the Bengaluru ICC experience leaving leaders with lasting memories of human connection, bold technology, and Takeda’s shared commitment to building a brighter, more innovative future together.",
       "_image_candidates_validated": true
     }
   ]
