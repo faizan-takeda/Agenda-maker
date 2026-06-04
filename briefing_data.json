@@ -648,8 +648,8 @@
             "event_no": 11,
             "session_id": "D3-E11",
             "start_time": "11:30",
-            "end_time": "14:00",
-            "agenda_topic": "Working lunch with ZS",
+            "end_time": "14:15:00",
+            "agenda_topic": "Working session with lunch at ZS",
             "description": "Working lunch or relationship-building meal to continue discussion in an informal setting.",
             "location": "ZS",
             "attendees": "Jon N.",
@@ -662,8 +662,8 @@
           {
             "event_no": 12,
             "session_id": "D3-E12",
-            "start_time": "14:00",
-            "end_time": "14:30",
+            "start_time": "14:15:00",
+            "end_time": "14:45:00",
             "agenda_topic": "Transit",
             "description": "Transit window for movement between venues or session locations.",
             "location": "",
@@ -677,8 +677,8 @@
           {
             "event_no": 13,
             "session_id": "D3-E13",
-            "start_time": "14:30",
-            "end_time": "15:30",
+            "start_time": "15:00:00",
+            "end_time": "16:00:00",
             "agenda_topic": "Townhall with ICC",
             "description": "Townhall session to connect with ICC stakeholders and support two-way engagement.",
             "location": "Takeda ICC",
@@ -756,8 +756,8 @@
       "status": "Confirmed",
       "briefing_book_disc": "Welcome, Arrival. Catalog note: Always day 1 first slot.",
       "room_fit": "Welcome, Arrival",
-      "display_description": "Receive attendees, complete arrival support, and orient participants for the visit.",
-      "narration_script": "Day 1 - Arrival & Welcome. Receive attendees, complete arrival support, and orient participants for the visit. Hosted by Admin.",
+      "display_description": "Attendees are received at the ICC India Reception on the 11th floor, with arrival support and a smooth orientation to the visit. This opening moment sets a welcoming tone and helps participants settle in before the formal program begins. The reception also provides a natural transition into the day’s agenda, creating space for initial introductions and practical coordination. It establishes a polished start to the briefing book experience and supports an orderly flow into the sessions that follow.",
+      "narration_script": "Day 1 - Arrival & Welcome. Attendees are received at the ICC India Reception on the 11th floor, with arrival support and a smooth orientation to the visit. This opening moment sets a welcoming tone and helps participants settle in before the formal program begins. The reception also provides a natural transition into the day’s agenda, creating space for initial introductions and practical coordination. It establishes a polished start to the briefing book experience and supports an orderly flow into the sessions that follow. Hosted by Admin.",
       "_image_candidates_validated": true
     },
     {
@@ -778,8 +778,8 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Head of ICC India",
-      "display_description": "Align on visit objectives, expected outcomes, and the GCM expansion vision.",
-      "narration_script": "Day 1 - Welcome & Setting the Context. Align on visit objectives, expected outcomes, and the GCM expansion vision. Hosted by Tilak.",
+      "display_description": "This welcome session sets the tone for the visit by aligning participants on the objectives, expected outcomes, and the broader GCM expansion vision. It provides a clear opening context for the discussions and site experiences that follow on the 11th floor. The session helps frame the day as a connected sequence of strategic conversation, operational exposure, and leadership exchange. It offers a concise foundation for understanding how each subsequent stop contributes to the overall visit narrative.",
+      "narration_script": "Day 1 - Welcome & Setting the Context. This welcome session sets the tone for the visit by aligning participants on the objectives, expected outcomes, and the broader GCM expansion vision. It provides a clear opening context for the discussions and site experiences that follow on the 11th floor. The session helps frame the day as a connected sequence of strategic conversation, operational exposure, and leadership exchange. It offers a concise foundation for understanding how each subsequent stop contributes to the overall visit narrative. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -800,8 +800,8 @@
       "briefing_book_disc": "Small group demos, conversations. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Small group demos, conversations",
       "owner_role": "Head of ICC India",
-      "display_description": "Introduce the ICC innovation environment, facility setup, and collaboration spaces.",
-      "narration_script": "Day 1 - Innovation Space & Facility Walkthrough. Introduce the ICC innovation environment, facility setup, and collaboration spaces. Hosted by Tilak.",
+      "display_description": "This walkthrough introduces the ICC innovation environment, the facility setup, and the collaboration spaces that support the broader visit experience. Held at Ikigai Garden on the 10th floor, it offers an early look at the setting behind the day’s discussions. The session fits naturally after the opening welcome, moving from context-setting into a more tangible view of the workplace. It helps participants connect the strategic agenda with the physical spaces designed to enable collaboration and innovation.",
+      "narration_script": "Day 1 - Innovation Space & Facility Walkthrough. This walkthrough introduces the ICC innovation environment, the facility setup, and the collaboration spaces that support the broader visit experience. Held at Ikigai Garden on the 10th floor, it offers an early look at the setting behind the day’s discussions. The session fits naturally after the opening welcome, moving from context-setting into a more tangible view of the workplace. It helps participants connect the strategic agenda with the physical spaces designed to enable collaboration and innovation. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -822,8 +822,8 @@
       "briefing_book_disc": "Small group demos, conversations. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Small group demos, conversations",
       "owner_role": "Head of ICC India",
-      "display_description": "Showcase how AI and automation can transform market access and pricing workflows.",
-      "narration_script": "Day 1 - Transforming Market Access Through AI & Automation. Showcase how AI and automation can transform market access and pricing workflows. Hosted by Tilak.",
+      "display_description": "This session showcases how AI and automation can transform market access and pricing workflows. Hosted at Shinano on the 10th floor, it brings a focused operational lens to the broader innovation agenda. Placed after the facility walkthrough, the discussion deepens the visit by moving from environment and context into practical capability. It adds a substantive business perspective and reinforces the role of technology in shaping future ways of working.",
+      "narration_script": "Day 1 - Transforming Market Access Through AI & Automation. This session showcases how AI and automation can transform market access and pricing workflows. Hosted at Shinano on the 10th floor, it brings a focused operational lens to the broader innovation agenda. Placed after the facility walkthrough, the discussion deepens the visit by moving from environment and context into practical capability. It adds a substantive business perspective and reinforces the role of technology in shaping future ways of working. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -847,8 +847,8 @@
       "demo_owner": "Amanda",
       "room_fit": "Townhalls, Q&A, Large group sessions",
       "owner_role": "Head of ICC India",
-      "display_description": "Enable informal networking while providing exposure to PDT labs and innovation spaces.",
-      "narration_script": "Day 1 - Networking & PDT Labs Walkthrough. Enable informal networking while providing exposure to PDT labs and innovation spaces. Hosted by Tilak.",
+      "display_description": "A relaxed networking pause on the 11th floor creates space for informal exchange alongside a walkthrough of the PDT labs and innovation spaces. It offers a useful bridge between the more structured sessions of the morning and the next set of discussions. The break supports relationship-building while keeping the agenda flowing smoothly. It also gives participants a chance to absorb the surrounding environment before moving into the next content block.",
+      "narration_script": "Day 1 - Networking & PDT Labs Walkthrough. A relaxed networking pause on the 11th floor creates space for informal exchange alongside a walkthrough of the PDT labs and innovation spaces. It offers a useful bridge between the more structured sessions of the morning and the next set of discussions. The break supports relationship-building while keeping the agenda flowing smoothly. It also gives participants a chance to absorb the surrounding environment before moving into the next content block. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -869,8 +869,8 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Head of ICC India",
-      "display_description": "Demonstrate scalable data-product foundations, platform capabilities, and connected insights for IBU.",
-      "narration_script": "Day 1 - Building Scalable Data Products and Foundations for IBU. Demonstrate scalable data-product foundations, platform capabilities, and connected insights for IBU. Hosted by Tilak.",
+      "display_description": "This session demonstrates scalable data-product foundations, platform capabilities, and connected insights for IBU. Held on the 11th floor in Himalaya, it adds a more technical and strategic layer to the visit program. Following the networking and walkthrough segment, the discussion shifts from general exposure to a clearer view of how data capabilities support business outcomes. It helps round out the day with a focused example of platform-enabled value creation.",
+      "narration_script": "Day 1 - Building Scalable Data Products and Foundations for IBU. This session demonstrates scalable data-product foundations, platform capabilities, and connected insights for IBU. Held on the 11th floor in Himalaya, it adds a more technical and strategic layer to the visit program. Following the networking and walkthrough segment, the discussion shifts from general exposure to a clearer view of how data capabilities support business outcomes. It helps round out the day with a focused example of platform-enabled value creation. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -879,15 +879,15 @@
       "day_title": "ICC capabilities and technologies",
       "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 7,
-      "time": "11:30:00 - 11:40:00",
+      "time": "11:30 - 11:40",
       "topic": "Networking Break",
       "description": "Refreshment, transition, or departure buffer to keep the agenda moving smoothly.",
       "duration_min": "15",
       "category": "Break",
       "status": "Confirmed",
       "briefing_book_disc": "Catalog note: Insert every ~2 hours.",
-      "display_description": "Refreshment, transition, or departure buffer to keep the agenda moving smoothly.",
-      "narration_script": "Day 1 - Networking Break. Refreshment, transition, or departure buffer to keep the agenda moving smoothly.",
+      "display_description": "A brief networking break provides a practical pause for refreshment, transition, or departure as the agenda continues. It supports a smooth cadence between sessions and helps maintain the flow of the day.",
+      "narration_script": "Day 1 - Networking Break. A brief networking break provides a practical pause for refreshment, transition, or departure as the agenda continues. It supports a smooth cadence between sessions and helps maintain the flow of the day.",
       "_image_candidates_validated": true
     },
     {
@@ -908,8 +908,8 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Head of ICC India",
-      "display_description": "Showcase personalized, data-driven customer engagement capabilities and their enterprise relevance.",
-      "narration_script": "Day 1 - The Future of Customer Engagement. Showcase personalized, data-driven customer engagement capabilities and their enterprise relevance. Hosted by Tilak.",
+      "display_description": "This session highlights personalized, data-driven customer engagement capabilities and their enterprise relevance. Hosted on the 11th floor in Himalaya, it brings a customer-focused perspective into the broader innovation narrative. Placed after the break, the discussion offers a thoughtful transition into how data and personalization can shape engagement at scale. It adds strategic context for leaders considering the role of customer experience in future operating models.",
+      "narration_script": "Day 1 - The Future of Customer Engagement. This session highlights personalized, data-driven customer engagement capabilities and their enterprise relevance. Hosted on the 11th floor in Himalaya, it brings a customer-focused perspective into the broader innovation narrative. Placed after the break, the discussion offers a thoughtful transition into how data and personalization can shape engagement at scale. It adds strategic context for leaders considering the role of customer experience in future operating models. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -929,8 +929,8 @@
       "status": "Confirmed",
       "briefing_book_disc": "Small group demos, conversations.",
       "room_fit": "Small group demos, conversations",
-      "display_description": "Discuss talent strategy, innovation culture, workforce models, and collaboration opportunities.",
-      "narration_script": "Day 1 - Leadership Roundtable Lunch with ICC Digital Associates. Discuss talent strategy, innovation culture, workforce models, and collaboration opportunities. Hosted by Admin.",
+      "display_description": "A leadership roundtable lunch with ICC Digital Associates creates a setting for informal discussion alongside the meal. It offers a natural pause in the program while opening space for conversation on talent strategy, innovation culture, workforce models, and collaboration opportunities. Held at the 10th floor Cafe, the lunch fits as a connective moment in the visit flow. It brings together relationship-building and substantive exchange in a relaxed, executive-friendly setting.",
+      "narration_script": "Day 1 - Leadership Roundtable Lunch with ICC Digital Associates. A leadership roundtable lunch with ICC Digital Associates creates a setting for informal discussion alongside the meal. It offers a natural pause in the program while opening space for conversation on talent strategy, innovation culture, workforce models, and collaboration opportunities. Held at the 10th floor Cafe, the lunch fits as a connective moment in the visit flow. It brings together relationship-building and substantive exchange in a relaxed, executive-friendly setting. Hosted by Admin.",
       "_image_candidates_validated": true
     },
     {
@@ -948,8 +948,8 @@
       "status": "Confirmed",
       "briefing_book_disc": "AI demos, innovation showcases.",
       "room_fit": "AI demos, innovation showcases",
-      "display_description": "Explore collaboration zones, the Tech Bar, and innovation spaces designed to accelerate delivery.",
-      "narration_script": "Day 1 - Tech Bar & Innovation Spaces Tour. Explore collaboration zones, the Tech Bar, and innovation spaces designed to accelerate delivery.",
+      "display_description": "This tour explores the collaboration zones, the Tech Bar, and the innovation spaces designed to accelerate delivery. Located on the 12th floor, it provides a practical look at the environment supporting the day’s broader themes. The visit extends the earlier facility exposure by focusing on spaces that enable hands-on collaboration and rapid problem-solving. It adds texture to the agenda and helps connect the physical setting with the operating model being discussed.",
+      "narration_script": "Day 1 - Tech Bar & Innovation Spaces Tour. This tour explores the collaboration zones, the Tech Bar, and the innovation spaces designed to accelerate delivery. Located on the 12th floor, it provides a practical look at the environment supporting the day’s broader themes. The visit extends the earlier facility exposure by focusing on spaces that enable hands-on collaboration and rapid problem-solving. It adds texture to the agenda and helps connect the physical setting with the operating model being discussed.",
       "_image_candidates_validated": true
     },
     {
@@ -970,8 +970,8 @@
       "briefing_book_disc": "AI demos, innovation showcases. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "AI demos, innovation showcases",
       "owner_role": "Head of ICC India",
-      "display_description": "Demonstrate how AI can scale enterprise productivity and accelerate engineering delivery.",
-      "narration_script": "Day 1 - AI Forward: Scaling Enterprise Productivity Through AI. Demonstrate how AI can scale enterprise productivity and accelerate engineering delivery. Hosted by Tilak.",
+      "display_description": "This session demonstrates how AI can scale enterprise productivity and accelerate engineering delivery. Hosted at XD Labs on the 12th floor, it brings a forward-looking technology perspective to the visit. Following the innovation-space tour, the discussion builds on the theme of practical enablement by showing how AI supports productivity at scale. It offers leaders a focused view of how emerging capabilities can influence delivery performance.",
+      "narration_script": "Day 1 - AI Forward: Scaling Enterprise Productivity Through AI. This session demonstrates how AI can scale enterprise productivity and accelerate engineering delivery. Hosted at XD Labs on the 12th floor, it brings a forward-looking technology perspective to the visit. Following the innovation-space tour, the discussion builds on the theme of practical enablement by showing how AI supports productivity at scale. It offers leaders a focused view of how emerging capabilities can influence delivery performance. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -992,8 +992,8 @@
       "briefing_book_disc": "Welcome, Arrival. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up. Catalog note: Workplace, collaboration spaces, innovation zone.",
       "room_fit": "Welcome, Arrival",
       "owner_role": "Head of ICC India",
-      "display_description": "Experience ICC culture, engagement initiatives, and ways of working across teams.",
-      "narration_script": "Day 1 - Innovation & Culture Experience Tour. Experience ICC culture, engagement initiatives, and ways of working across teams. Hosted by Tilak.",
+      "display_description": "This floor walk offers an experience of ICC culture, engagement initiatives, and the ways of working across teams. It provides a broader view of the environment beyond individual sessions and brings the visit into a more lived, organizational context. As a tour element, it fits well between focused content discussions and the closing reflections of the day. The experience helps connect the operational and cultural dimensions of the ICC in a single, cohesive visit.",
+      "narration_script": "Day 1 - Innovation & Culture Experience Tour. This floor walk offers an experience of ICC culture, engagement initiatives, and the ways of working across teams. It provides a broader view of the environment beyond individual sessions and brings the visit into a more lived, organizational context. As a tour element, it fits well between focused content discussions and the closing reflections of the day. The experience helps connect the operational and cultural dimensions of the ICC in a single, cohesive visit. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -1014,8 +1014,8 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Head of ICC India",
-      "display_description": "Review GCM progress and identify future transformation opportunities for the content factory.",
-      "narration_script": "Day 1 - Content Factory. Review GCM progress and identify future transformation opportunities for the content factory. Hosted by Tilak.",
+      "display_description": "This session reviews GCM progress and identifies future transformation opportunities for the content factory. Held on the 11th floor in Himalaya, it adds a focused business discussion to the agenda. The content factory topic fits naturally within the broader sequence of capability and operating-model conversations. It offers leaders a structured moment to consider what has been achieved and where further evolution may lie.",
+      "narration_script": "Day 1 - Content Factory. This session reviews GCM progress and identifies future transformation opportunities for the content factory. Held on the 11th floor in Himalaya, it adds a focused business discussion to the agenda. The content factory topic fits naturally within the broader sequence of capability and operating-model conversations. It offers leaders a structured moment to consider what has been achieved and where further evolution may lie. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -1036,8 +1036,8 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Head of ICC India",
-      "display_description": "Gain external perspectives on GCC evolution, ecosystem trends, and innovation operating models.",
-      "narration_script": "Day 1 - External Perspectives & Ecosystem Roundtable. Gain external perspectives on GCC evolution, ecosystem trends, and innovation operating models. Hosted by Tilak.",
+      "display_description": "This roundtable brings in external perspectives on GCC evolution, ecosystem trends, and innovation operating models. Hosted on the 11th floor in Himalaya, it broadens the visit beyond the immediate Takeda context. Placed after the internal content discussions, the session adds useful comparative insight and widens the lens for leadership reflection. It supports a more rounded understanding of how operating models and ecosystems continue to evolve.",
+      "narration_script": "Day 1 - External Perspectives & Ecosystem Roundtable. This roundtable brings in external perspectives on GCC evolution, ecosystem trends, and innovation operating models. Hosted on the 11th floor in Himalaya, it broadens the visit beyond the immediate Takeda context. Placed after the internal content discussions, the session adds useful comparative insight and widens the lens for leadership reflection. It supports a more rounded understanding of how operating models and ecosystems continue to evolve. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -1058,8 +1058,8 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Head of ICC India",
-      "display_description": "Reflect on key learnings, capture takeaways, and identify next-step opportunities.",
-      "narration_script": "Day 1 - Key Takeaways, Reflections & Opportunities Ahead. Reflect on key learnings, capture takeaways, and identify next-step opportunities. Hosted by Tilak.",
+      "display_description": "This closing discussion brings the day’s key learnings together, captures the main takeaways, and identifies opportunities ahead. Held on the 11th floor in Himalaya, it provides a thoughtful conclusion to the sequence of sessions. The session serves as a natural bridge from observation to reflection, helping consolidate the visit into a clear set of themes. It creates space to align on what stood out and where the conversation may continue next.",
+      "narration_script": "Day 1 - Key Takeaways, Reflections & Opportunities Ahead. This closing discussion brings the day’s key learnings together, captures the main takeaways, and identifies opportunities ahead. Held on the 11th floor in Himalaya, it provides a thoughtful conclusion to the sequence of sessions. The session serves as a natural bridge from observation to reflection, helping consolidate the visit into a clear set of themes. It creates space to align on what stood out and where the conversation may continue next. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -1076,8 +1076,8 @@
       "category": "Break",
       "status": "Confirmed",
       "briefing_book_disc": "Catalog note: Insert every ~2 hours.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 1 - Hotel Transit and Break. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window at Leela Hotel provides a calm pause for movement between venues or session locations. It supports the day’s pacing and allows the agenda to transition smoothly.",
+      "narration_script": "Day 1 - Hotel Transit and Break. A transit window at Leela Hotel provides a calm pause for movement between venues or session locations. It supports the day’s pacing and allows the agenda to transition smoothly.",
       "_image_candidates_validated": true
     },
     {
@@ -1097,8 +1097,8 @@
       "status": "Confirmed",
       "briefing_book_disc": "Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "owner_role": "Head of ICC India",
-      "display_description": "Evening dinner engagement for informal discussion, networking, and relationship building.",
-      "narration_script": "Day 1 - Dinner. Evening dinner engagement for informal discussion, networking, and relationship building. Hosted by Tilak/Michaela.",
+      "display_description": "An evening dinner at Leela Hotel offers a warm setting for informal discussion, networking, and relationship building. It provides a relaxed close to the day’s formal program and creates space for continued conversation.",
+      "narration_script": "Day 1 - Dinner. An evening dinner at Leela Hotel offers a warm setting for informal discussion, networking, and relationship building. It provides a relaxed close to the day’s formal program and creates space for continued conversation. Hosted by Tilak/Michaela.",
       "_image_candidates_validated": true
     },
     {
@@ -1114,8 +1114,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Transit. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 2 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window supports movement between venues or session locations and helps maintain a smooth flow across the program. It serves as a practical bridge between scheduled activities.",
+      "narration_script": "Day 2 - Transit. A transit window supports movement between venues or session locations and helps maintain a smooth flow across the program. It serves as a practical bridge between scheduled activities.",
       "_image_candidates_validated": true
     },
     {
@@ -1135,8 +1135,8 @@
       "status": "Draft",
       "briefing_book_disc": "Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "owner_role": "Head of ICC India",
-      "display_description": "Session details to be confirmed by Tilak.",
-      "narration_script": "Day 2 - Reflections & Discussion From Day 1. Session details to be confirmed by Tilak. Hosted by Tilak.",
+      "display_description": "This reflection session at Marriott Hotel Whitefield provides a space to revisit the themes and discussion points from Day 1. The session details are to be confirmed by Tilak, and the timing allows for a considered continuation of the visit narrative. It serves as a useful pause for synthesis before the agenda moves forward. The session is positioned to support alignment on what has been learned and how the conversation may develop next.",
+      "narration_script": "Day 2 - Reflections & Discussion From Day 1. This reflection session at Marriott Hotel Whitefield provides a space to revisit the themes and discussion points from Day 1. The session details are to be confirmed by Tilak, and the timing allows for a considered continuation of the visit narrative. It serves as a useful pause for synthesis before the agenda moves forward. The session is positioned to support alignment on what has been learned and how the conversation may develop next. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -1152,8 +1152,8 @@
       "category": "Break",
       "status": "Confirmed",
       "briefing_book_disc": "Catalog note: Insert every ~2 hours.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 2 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit break supports movement between venues and helps the agenda proceed smoothly. It provides a practical buffer between scheduled sessions.",
+      "narration_script": "Day 2 - Transit. A transit break supports movement between venues and helps the agenda proceed smoothly. It provides a practical buffer between scheduled sessions.",
       "_image_candidates_validated": true
     },
     {
@@ -1173,8 +1173,8 @@
       "status": "Confirmed",
       "briefing_book_disc": "Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "owner_role": "Head of ICC India",
-      "display_description": "Peer capability-center visit to learn from operating models, capabilities, and practical examples.",
-      "narration_script": "Day 2 - Capability Center Visit: Novo Nordisk. Peer capability-center visit to learn from operating models, capabilities, and practical examples. Hosted by Tilak.",
+      "display_description": "This peer capability-center visit to Novo Nordisk offers an opportunity to learn from operating models, capabilities, and practical examples. It adds an external reference point to the broader visit program and broadens the leadership perspective. The session fits as a comparative learning experience, complementing the internal discussions with a view into another capability center. It helps frame the Takeda visit within a wider ecosystem of operating approaches.",
+      "narration_script": "Day 2 - Capability Center Visit: Novo Nordisk. This peer capability-center visit to Novo Nordisk offers an opportunity to learn from operating models, capabilities, and practical examples. It adds an external reference point to the broader visit program and broadens the leadership perspective. The session fits as a comparative learning experience, complementing the internal discussions with a view into another capability center. It helps frame the Takeda visit within a wider ecosystem of operating approaches. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -1183,15 +1183,15 @@
       "day_title": "Learning from peers",
       "day_theme": "Data capabilities, business immersion, and final alignment",
       "event_no": 5,
-      "time": "12:00:00 - 12:15:00",
+      "time": "12:00 - 12:15",
       "topic": "Transit",
       "description": "Transit window for movement between venues or session locations.",
       "duration_min": "15",
       "category": "Other",
       "status": "Draft",
       "briefing_book_disc": "This session focuses on Transit. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 2 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window provides time for movement between venues or session locations and keeps the day’s schedule flowing. It serves as a simple bridge between engagements.",
+      "narration_script": "Day 2 - Transit. A transit window provides time for movement between venues or session locations and keeps the day’s schedule flowing. It serves as a simple bridge between engagements.",
       "_image_candidates_validated": true
     },
     {
@@ -1200,7 +1200,7 @@
       "day_title": "Learning from peers",
       "day_theme": "Data capabilities, business immersion, and final alignment",
       "event_no": 6,
-      "time": "12:15:00 - 13:00:00",
+      "time": "12:15 - 13:00",
       "topic": "Lunch",
       "description": "Lunch for engagement for informal discussion, networking, and relationship building.",
       "location": "Marriott Hotel Whitefield",
@@ -1211,8 +1211,8 @@
       "status": "Draft",
       "briefing_book_disc": "Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "owner_role": "Head of ICC India",
-      "display_description": "Lunch for engagement for informal discussion, networking, and relationship building.",
-      "narration_script": "Day 2 - Lunch. Lunch for engagement for informal discussion, networking, and relationship building. Hosted by Tilak.",
+      "display_description": "Lunch at Marriott Hotel Whitefield offers a relaxed setting for engagement, informal discussion, networking, and relationship building. It provides a natural pause in the day while keeping the conversation active. The meal fits comfortably within the broader sequence of visits and discussions. It creates space for reflection and connection before the next round of sessions.",
+      "narration_script": "Day 2 - Lunch. Lunch at Marriott Hotel Whitefield offers a relaxed setting for engagement, informal discussion, networking, and relationship building. It provides a natural pause in the day while keeping the conversation active. The meal fits comfortably within the broader sequence of visits and discussions. It creates space for reflection and connection before the next round of sessions. Hosted by Tilak.",
       "_image_candidates_validated": true
     },
     {
@@ -1221,15 +1221,15 @@
       "day_title": "Learning from peers",
       "day_theme": "Data capabilities, business immersion, and final alignment",
       "event_no": 7,
-      "time": "13:30:00 - 14:00:00",
+      "time": "13:30 - 14:00",
       "topic": "Transit",
       "description": "Transit window for movement between venues or session locations.",
       "duration_min": "30",
       "category": "Other",
       "status": "Draft",
       "briefing_book_disc": "This session focuses on Transit. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 2 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window supports movement between venues or session locations and helps maintain a steady pace across the agenda. It functions as a practical transition point between activities.",
+      "narration_script": "Day 2 - Transit. A transit window supports movement between venues or session locations and helps maintain a steady pace across the agenda. It functions as a practical transition point between activities.",
       "_image_candidates_validated": true
     },
     {
@@ -1248,8 +1248,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Capability Center Visit: Merck. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Peer capability-center visit to learn from operating models, capabilities, and practical examples.",
-      "narration_script": "Day 2 - Capability Center Visit: Merck. Peer capability-center visit to learn from operating models, capabilities, and practical examples. Hosted by Peter.",
+      "display_description": "This peer capability-center visit to Merck provides an opportunity to learn from operating models, capabilities, and practical examples. It adds another external perspective to the visit and supports broader comparison across organizations. The session complements the day’s learning journey by offering a real-world reference point outside Takeda. It helps enrich leadership discussion around how capability centers are structured and experienced in practice.",
+      "narration_script": "Day 2 - Capability Center Visit: Merck. This peer capability-center visit to Merck provides an opportunity to learn from operating models, capabilities, and practical examples. It adds another external perspective to the visit and supports broader comparison across organizations. The session complements the day’s learning journey by offering a real-world reference point outside Takeda. It helps enrich leadership discussion around how capability centers are structured and experienced in practice. Hosted by Peter.",
       "_image_candidates_validated": true
     },
     {
@@ -1265,8 +1265,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Transit. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 2 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window allows participants to move between venues or session locations and supports a smooth continuation of the program. It serves as a simple operational bridge.",
+      "narration_script": "Day 2 - Transit. A transit window allows participants to move between venues or session locations and supports a smooth continuation of the program. It serves as a simple operational bridge.",
       "_image_candidates_validated": true
     },
     {
@@ -1285,8 +1285,8 @@
       "category": "Other",
       "status": "Draft",
       "briefing_book_disc": "This session focuses on Accenture session - Capability and aspiration. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Session details to be confirmed by Thomas.",
-      "narration_script": "Day 2 - Accenture session - Capability and aspiration. Session details to be confirmed by Thomas. Hosted by Thomas H.",
+      "display_description": "This session at Accenture is positioned as a capability-and-aspiration discussion, with details to be confirmed by Thomas. It adds an external partner perspective to the agenda and creates space for a focused exchange. The session fits within the broader sequence of learning and comparison across organizations. It offers a useful point for framing current capability and future ambition in a structured setting.",
+      "narration_script": "Day 2 - Accenture session - Capability and aspiration. This session at Accenture is positioned as a capability-and-aspiration discussion, with details to be confirmed by Thomas. It adds an external partner perspective to the agenda and creates space for a focused exchange. The session fits within the broader sequence of learning and comparison across organizations. It offers a useful point for framing current capability and future ambition in a structured setting. Hosted by Thomas H.",
       "_image_candidates_validated": true
     },
     {
@@ -1302,8 +1302,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Transit. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 2 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window provides time for movement between venues or session locations and helps the agenda progress without interruption. It acts as a practical transition between engagements.",
+      "narration_script": "Day 2 - Transit. A transit window provides time for movement between venues or session locations and helps the agenda progress without interruption. It acts as a practical transition between engagements.",
       "_image_candidates_validated": true
     },
     {
@@ -1321,8 +1321,8 @@
       "category": "Dinner",
       "status": "Draft",
       "briefing_book_disc": "This session focuses on Dinner with Accenture. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Evening dinner engagement for informal discussion, networking, and relationship building.",
-      "narration_script": "Day 2 - Dinner with Accenture. Evening dinner engagement for informal discussion, networking, and relationship building. Hosted by Thomas H.",
+      "display_description": "An evening dinner with Accenture offers a relaxed setting for informal discussion, networking, and relationship building. It provides a fitting close to the day’s external engagements and supports continued conversation in a more personal context.",
+      "narration_script": "Day 2 - Dinner with Accenture. An evening dinner with Accenture offers a relaxed setting for informal discussion, networking, and relationship building. It provides a fitting close to the day’s external engagements and supports continued conversation in a more personal context. Hosted by Thomas H.",
       "_image_candidates_validated": true
     },
     {
@@ -1331,7 +1331,7 @@
       "day_title": "Learning from peers",
       "day_theme": "Data capabilities, business immersion, and final alignment",
       "event_no": 13,
-      "time": "21:00:00 - 21:30:00",
+      "time": "21:00 - 21:30",
       "topic": "Transit to Leela Hotel",
       "description": "A smooth transit window for participants to move to Leela Hotel after the \nevening dinner engagement.",
       "location": "Leela Hotel",
@@ -1339,8 +1339,8 @@
       "category": "Other",
       "status": "Draft",
       "briefing_book_disc": "This session focuses on Transit to Leela Hotel. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "A smooth transit window for participants to move to Leela Hotel after the evening dinner engagement.",
-      "narration_script": "Day 2 - Transit to Leela Hotel. A smooth transit window for participants to move to Leela Hotel after the evening dinner engagement.",
+      "display_description": "This transit window supports a smooth move to Leela Hotel after the evening dinner engagement. It helps maintain the flow of the program and provides a practical transition point.",
+      "narration_script": "Day 2 - Transit to Leela Hotel. This transit window supports a smooth move to Leela Hotel after the evening dinner engagement. It helps maintain the flow of the program and provides a practical transition point.",
       "_image_candidates_validated": true
     },
     {
@@ -1348,15 +1348,15 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 1,
-      "time": "07:30:00 - 08:00:00",
+      "time": "07:30 - 08:00",
       "topic": "Transit",
       "description": "Transit window for movement between venues or session locations.",
       "duration_min": "15",
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Transit. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 3 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window allows participants to move between venues or session locations and keeps the schedule running smoothly. It serves as a straightforward bridge between activities.",
+      "narration_script": "Day 3 - Transit. A transit window allows participants to move between venues or session locations and keeps the schedule running smoothly. It serves as a straightforward bridge between activities.",
       "_image_candidates_validated": true
     },
     {
@@ -1364,7 +1364,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 2,
-      "time": "08:00:00 - 08:10:00",
+      "time": "08:00 - 08:10",
       "topic": "Welcome & Intros",
       "description": "Set the context for the Day 3 working session, align participants on objectives, and \nconfirm the expected outcomes for the content-factory establishment discussion.",
       "location": "Indegene",
@@ -1374,8 +1374,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Welcome & Intros. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Set the context for the Day 3 working session, align participants on objectives, and confirm the expected outcomes for the content-factory establishment discussion.",
-      "narration_script": "Day 3 - Welcome & Intros. Set the context for the Day 3 working session, align participants on objectives, and confirm the expected outcomes for the content-factory establishment discussion. Hosted by Peter S..",
+      "display_description": "This opening working session sets the context for Day 3 by aligning participants on objectives and confirming the expected outcomes for the content-factory establishment discussion. Held at Indegene, it establishes a clear starting point for the day’s collaborative work. The session helps frame the agenda before moving into the more substantive Takeda and partner discussions that follow. It creates a shared understanding of purpose and direction for the working session.",
+      "narration_script": "Day 3 - Welcome & Intros. This opening working session sets the context for Day 3 by aligning participants on objectives and confirming the expected outcomes for the content-factory establishment discussion. Held at Indegene, it establishes a clear starting point for the day’s collaborative work. The session helps frame the agenda before moving into the more substantive Takeda and partner discussions that follow. It creates a shared understanding of purpose and direction for the working session. Hosted by Peter S..",
       "_image_candidates_validated": true
     },
     {
@@ -1383,7 +1383,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 3,
-      "time": "08:10:00 - 08:30:00",
+      "time": "08:10 - 08:30",
       "topic": "Takeda Vision & Priorities",
       "description": "Share Takeda’s strategic priorities and expectations for the content factory, ensuring alignment on business goals, operating principles, and future-state ambitions.",
       "location": "Indegene",
@@ -1393,8 +1393,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Takeda Vision & Priorities. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Share Takeda’s strategic priorities and expectations for the content factory, ensuring alignment on business goals, operating principles, and future-state ambitions.",
-      "narration_script": "Day 3 - Takeda Vision & Priorities. Share Takeda’s strategic priorities and expectations for the content factory, ensuring alignment on business goals, operating principles, and future-state ambitions. Hosted by Peter S..",
+      "display_description": "This session shares Takeda’s strategic priorities and expectations for the content factory, with attention to business goals, operating principles, and future-state ambitions. Held at Indegene, it provides an important leadership anchor for the day. The discussion sets the direction for the working session by clarifying what success should look like from Takeda’s perspective. It helps align the conversation around the broader intent of the content-factory model.",
+      "narration_script": "Day 3 - Takeda Vision & Priorities. This session shares Takeda’s strategic priorities and expectations for the content factory, with attention to business goals, operating principles, and future-state ambitions. Held at Indegene, it provides an important leadership anchor for the day. The discussion sets the direction for the working session by clarifying what success should look like from Takeda’s perspective. It helps align the conversation around the broader intent of the content-factory model. Hosted by Peter S..",
       "_image_candidates_validated": true
     },
     {
@@ -1402,7 +1402,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 4,
-      "time": "08:30:00 - 08:50:00",
+      "time": "08:30 - 08:50",
       "topic": "Indigene Introduction and Overview",
       "description": "Provide an overview of Indegene’s capabilities, delivery model, and relevant \nexperience to establish a shared understanding of their role in supporting the content factory.",
       "location": "Indegene",
@@ -1412,8 +1412,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Indigene Introduction and Overview. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Provide an overview of Indegene’s capabilities, delivery model, and relevant experience to establish a shared understanding of their role in supporting the content factory.",
-      "narration_script": "Day 3 - Indigene Introduction and Overview. Provide an overview of Indegene’s capabilities, delivery model, and relevant experience to establish a shared understanding of their role in supporting the content factory. Hosted by Peter S..",
+      "display_description": "This introduction provides an overview of Indegene’s capabilities, delivery model, and relevant experience. It establishes a shared understanding of how Indegene can support the content factory discussion at hand. As part of the Day 3 flow, the session creates context before the deeper partnership and operating-model conversations begin. It helps ground the working session in a common view of the partner’s role and approach.",
+      "narration_script": "Day 3 - Indigene Introduction and Overview. This introduction provides an overview of Indegene’s capabilities, delivery model, and relevant experience. It establishes a shared understanding of how Indegene can support the content factory discussion at hand. As part of the Day 3 flow, the session creates context before the deeper partnership and operating-model conversations begin. It helps ground the working session in a common view of the partner’s role and approach. Hosted by Peter S..",
       "_image_candidates_validated": true
     },
     {
@@ -1421,7 +1421,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 5,
-      "time": "08:50:00 - 09:10:00",
+      "time": "08:50 - 09:10",
       "topic": "Review of Existing Indegene & Takeda Partnership, Deep Dive on Camp Ops",
       "description": "Review the current Takeda Indegene partnership, assess existing campaign \noperations, and identify improvement opportunities for scalable content delivery.",
       "location": "Indegene",
@@ -1431,8 +1431,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Review of Existing Indegene & Takeda Partnership, Deep Dive on Camp Ops. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Review the current Takeda Indegene partnership, assess existing campaign operations, and identify improvement opportunities for scalable content delivery.",
-      "narration_script": "Day 3 - Review of Existing Indegene & Takeda Partnership, Deep Dive on Camp Ops. Review the current Takeda Indegene partnership, assess existing campaign operations, and identify improvement opportunities for scalable content delivery. Hosted by Peter S..",
+      "display_description": "This deep dive reviews the current Takeda Indegene partnership and assesses existing campaign operations, with an eye toward improvement opportunities for scalable content delivery. It brings practical operating detail into the Day 3 discussion at Indegene. The session builds on the earlier introductions by moving into the current-state relationship and how it functions today. It provides a useful basis for identifying where the model may evolve further.",
+      "narration_script": "Day 3 - Review of Existing Indegene & Takeda Partnership, Deep Dive on Camp Ops. This deep dive reviews the current Takeda Indegene partnership and assesses existing campaign operations, with an eye toward improvement opportunities for scalable content delivery. It brings practical operating detail into the Day 3 discussion at Indegene. The session builds on the earlier introductions by moving into the current-state relationship and how it functions today. It provides a useful basis for identifying where the model may evolve further. Hosted by Peter S..",
       "_image_candidates_validated": true
     },
     {
@@ -1440,7 +1440,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 6,
-      "time": "09:10:00 - 09:40:00",
+      "time": "09:10 - 09:40",
       "topic": "Content Factory Floor Walk",
       "description": "Align with Peter on content-factory establishment priorities, requirements, and working-session outcomes.",
       "location": "Indegene",
@@ -1450,8 +1450,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Content Factory Floor Walk. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Align with Peter on content-factory establishment priorities, requirements, and working-session outcomes.",
-      "narration_script": "Day 3 - Content Factory Floor Walk. Align with Peter on content-factory establishment priorities, requirements, and working-session outcomes. Hosted by Peter S..",
+      "display_description": "This content-factory floor walk aligns with Peter on establishment priorities, requirements, and working-session outcomes. It adds a practical, on-the-ground dimension to the Day 3 agenda at Indegene. The walkthrough helps connect the discussion to the environment in which the model would operate. It supports a more concrete understanding of the priorities shaping the establishment effort.",
+      "narration_script": "Day 3 - Content Factory Floor Walk. This content-factory floor walk aligns with Peter on establishment priorities, requirements, and working-session outcomes. It adds a practical, on-the-ground dimension to the Day 3 agenda at Indegene. The walkthrough helps connect the discussion to the environment in which the model would operate. It supports a more concrete understanding of the priorities shaping the establishment effort. Hosted by Peter S..",
       "_image_candidates_validated": true
     },
     {
@@ -1459,7 +1459,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 7,
-      "time": "09:40:00 - 10:20:00",
+      "time": "09:40 - 10:20",
       "topic": "Indegene & Takeda Content Factory Partnership (IBU, \nMedical focus)",
       "description": "Discuss the proposed Indegene Takeda content factory partnership for IBU and Medical, focusing on collaboration model, priority use cases, operating approach.",
       "location": "Indegene",
@@ -1469,8 +1469,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Indegene & Takeda Content Factory Partnership (IBU, \nMedical focus). It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Discuss the proposed Indegene Takeda content factory partnership for IBU and Medical, focusing on collaboration model, priority use cases, operating approach.",
-      "narration_script": "Day 3 - Indegene & Takeda Content Factory Partnership (IBU, Medical focus). Discuss the proposed Indegene Takeda content factory partnership for IBU and Medical, focusing on collaboration model, priority use cases, operating approach. Hosted by Peter S..",
+      "display_description": "This discussion covers the proposed Indegene Takeda content factory partnership for IBU and Medical, with focus on the collaboration model, priority use cases, and operating approach. It is a central working session in the Day 3 program at Indegene. The topic builds naturally from the earlier context-setting and partnership review. It brings the discussion toward the practical shape of the future collaboration and how it may support the content factory agenda.",
+      "narration_script": "Day 3 - Indegene & Takeda Content Factory Partnership (IBU, Medical focus). This discussion covers the proposed Indegene Takeda content factory partnership for IBU and Medical, with focus on the collaboration model, priority use cases, and operating approach. It is a central working session in the Day 3 program at Indegene. The topic builds naturally from the earlier context-setting and partnership review. It brings the discussion toward the practical shape of the future collaboration and how it may support the content factory agenda. Hosted by Peter S..",
       "_image_candidates_validated": true
     },
     {
@@ -1478,7 +1478,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 8,
-      "time": "10:20:00 - 10:40:00",
+      "time": "10:20 - 10:40",
       "topic": "Evolution of Content Factory/ Camp Ops & Industry \nLearnings",
       "description": "Explore how content factory and campaign operations have evolved, including industry benchmarks, best practices, and lessons relevant to Takeda’s future model.",
       "location": "Indegene",
@@ -1488,8 +1488,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Evolution of Content Factory/ Camp Ops & Industry \nLearnings. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Explore how content factory and campaign operations have evolved, including industry benchmarks, best practices, and lessons relevant to Takeda’s future model.",
-      "narration_script": "Day 3 - Evolution of Content Factory/ Camp Ops & Industry Learnings. Explore how content factory and campaign operations have evolved, including industry benchmarks, best practices, and lessons relevant to Takeda’s future model. Hosted by Peter S..",
+      "display_description": "This session explores how content factory and campaign operations have evolved, including industry benchmarks, best practices, and lessons relevant to Takeda’s future model. It broadens the conversation beyond the immediate partnership into wider market learning. Placed within the Day 3 working session, it provides useful comparative context for the content-factory discussion. The perspective helps inform thinking about how the model may continue to develop.",
+      "narration_script": "Day 3 - Evolution of Content Factory/ Camp Ops & Industry Learnings. This session explores how content factory and campaign operations have evolved, including industry benchmarks, best practices, and lessons relevant to Takeda’s future model. It broadens the conversation beyond the immediate partnership into wider market learning. Placed within the Day 3 working session, it provides useful comparative context for the content-factory discussion. The perspective helps inform thinking about how the model may continue to develop. Hosted by Peter S..",
       "_image_candidates_validated": true
     },
     {
@@ -1497,7 +1497,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 9,
-      "time": "10:40:00 - 11:00",
+      "time": "10:40 - 11:00",
       "topic": "Wrap up and Closing",
       "description": "Summarize key decisions, capture open action items, confirm owners and timelines, and align on next steps to move the content-factory establishment plan forward.",
       "location": "Indegene",
@@ -1507,8 +1507,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Wrap up and Closing. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Summarize key decisions, capture open action items, confirm owners and timelines, and align on next steps to move the content-factory establishment plan forward.",
-      "narration_script": "Day 3 - Wrap up and Closing. Summarize key decisions, capture open action items, confirm owners and timelines, and align on next steps to move the content-factory establishment plan forward. Hosted by Peter S..",
+      "display_description": "This wrap-up session summarizes key decisions, captures open action items, confirms owners and timelines, and aligns on next steps. It closes the Day 3 working session at Indegene with a clear and practical conclusion. The discussion helps translate the day’s conversation into an organized path forward. It provides a disciplined finish to the content-factory establishment agenda.",
+      "narration_script": "Day 3 - Wrap up and Closing. This wrap-up session summarizes key decisions, captures open action items, confirms owners and timelines, and aligns on next steps. It closes the Day 3 working session at Indegene with a clear and practical conclusion. The discussion helps translate the day’s conversation into an organized path forward. It provides a disciplined finish to the content-factory establishment agenda. Hosted by Peter S..",
       "_image_candidates_validated": true
     },
     {
@@ -1523,8 +1523,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Transit. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 3 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window provides time for movement between venues or session locations and supports a smooth continuation of the program. It serves as a practical bridge between engagements.",
+      "narration_script": "Day 3 - Transit. A transit window provides time for movement between venues or session locations and supports a smooth continuation of the program. It serves as a practical bridge between engagements.",
       "_image_candidates_validated": true
     },
     {
@@ -1532,8 +1532,8 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 11,
-      "time": "11:30 - 14:00",
-      "topic": "Working lunch with ZS",
+      "time": "11:30 - 14:15",
+      "topic": "Working session with lunch at ZS",
       "description": "Working lunch or relationship-building meal to continue discussion in an informal setting.",
       "location": "ZS",
       "attendees": "Jon N.",
@@ -1541,9 +1541,9 @@
       "duration_min": "150",
       "category": "Other",
       "status": "Confirmed",
-      "briefing_book_disc": "This session focuses on Working lunch with ZS. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Working lunch or relationship-building meal to continue discussion in an informal setting.",
-      "narration_script": "Day 3 - Working lunch with ZS. Working lunch or relationship-building meal to continue discussion in an informal setting. Hosted by Jon N..",
+      "briefing_book_disc": "This session focuses on Working session with lunch at ZS. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
+      "display_description": "This working lunch at ZS offers an informal setting to continue discussion while sharing a meal. It combines relationship-building with a practical opportunity to advance the conversation in a relaxed environment.",
+      "narration_script": "Day 3 - Working session with lunch at ZS. This working lunch at ZS offers an informal setting to continue discussion while sharing a meal. It combines relationship-building with a practical opportunity to advance the conversation in a relaxed environment. Hosted by Jon N..",
       "_image_candidates_validated": true
     },
     {
@@ -1551,15 +1551,15 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 12,
-      "time": "14:00 - 14:30",
+      "time": "14:15 - 14:45",
       "topic": "Transit",
       "description": "Transit window for movement between venues or session locations.",
       "duration_min": "30",
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Transit. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Transit window for movement between venues or session locations.",
-      "narration_script": "Day 3 - Transit. Transit window for movement between venues or session locations.",
+      "display_description": "A transit window supports movement between venues or session locations and helps the agenda proceed smoothly. It provides a simple transition between scheduled activities.",
+      "narration_script": "Day 3 - Transit. A transit window supports movement between venues or session locations and helps the agenda proceed smoothly. It provides a simple transition between scheduled activities.",
       "_image_candidates_validated": true
     },
     {
@@ -1567,7 +1567,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 13,
-      "time": "14:30 - 15:30",
+      "time": "15:00 - 16:00",
       "topic": "Townhall with ICC",
       "description": "Townhall session to connect with ICC stakeholders and support two-way engagement.",
       "location": "Takeda ICC",
@@ -1578,8 +1578,8 @@
       "status": "Confirmed",
       "briefing_book_disc": "Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "owner_role": "Head of ICC India",
-      "display_description": "Townhall session to connect with ICC stakeholders and support two-way engagement.",
-      "narration_script": "Day 3 - Townhall with ICC. Townhall session to connect with ICC stakeholders and support two-way engagement. Hosted by Tilak/Lana.",
+      "display_description": "This townhall at Takeda ICC brings stakeholders together for a two-way engagement session. It creates a shared forum for connection, exchange, and broader organizational dialogue. The format fits well as a collective moment within the visit flow, offering a more open and inclusive setting after the preceding working sessions. It helps round out the day with direct interaction across the ICC community.",
+      "narration_script": "Day 3 - Townhall with ICC. This townhall at Takeda ICC brings stakeholders together for a two-way engagement session. It creates a shared forum for connection, exchange, and broader organizational dialogue. The format fits well as a collective moment within the visit flow, offering a more open and inclusive setting after the preceding working sessions. It helps round out the day with direct interaction across the ICC community. Hosted by Tilak/Lana.",
       "_image_candidates_validated": true
     },
     {
@@ -1587,7 +1587,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 14,
-      "time": "16:00 - 16:30:00",
+      "time": "16:00 - 16:30",
       "topic": "Wrap up and close",
       "description": "Close the day by summarizing decisions, actions, and immediate follow-ups.",
       "location": "Takeda ICC",
@@ -1597,8 +1597,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Wrap up and close. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Close the day by summarizing decisions, actions, and immediate follow-ups.",
-      "narration_script": "Day 3 - Wrap up and close. Close the day by summarizing decisions, actions, and immediate follow-ups. Hosted by Roland.",
+      "display_description": "This wrap-up session closes the day by summarizing decisions, actions, and immediate follow-ups. Held at Takeda ICC, it provides a concise and orderly conclusion to the program. The session helps consolidate the day’s discussions into a clear finish point. It offers a final moment of alignment before the visit concludes.",
+      "narration_script": "Day 3 - Wrap up and close. This wrap-up session closes the day by summarizing decisions, actions, and immediate follow-ups. Held at Takeda ICC, it provides a concise and orderly conclusion to the program. The session helps consolidate the day’s discussions into a clear finish point. It offers a final moment of alignment before the visit concludes. Hosted by Roland.",
       "_image_candidates_validated": true
     },
     {
@@ -1606,7 +1606,7 @@
       "date": "June 11, 2026",
       "day_title": "Defining IBU ICC requirements",
       "event_no": 15,
-      "time": "16:30:00 - 18:00",
+      "time": "16:30 - 18:00",
       "topic": "Additional working time if needed",
       "description": "Optional working window for follow-up discussion, alignment, or unresolved topics.",
       "location": "Takeda ICC",
@@ -1614,8 +1614,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on Additional working time if needed. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Optional working window for follow-up discussion, alignment, or unresolved topics.",
-      "narration_script": "Day 3 - Additional working time if needed. Optional working window for follow-up discussion, alignment, or unresolved topics.",
+      "display_description": "This additional working window provides optional time for follow-up discussion, alignment, or unresolved topics. It offers flexibility at the end of the day and can be used to extend the conversation if helpful. The session sits naturally after the formal wrap-up, preserving space for any remaining points without disrupting the overall flow. It supports a calm and adaptable close to the program.",
+      "narration_script": "Day 3 - Additional working time if needed. This additional working window provides optional time for follow-up discussion, alignment, or unresolved topics. It offers flexibility at the end of the day and can be used to extend the conversation if helpful. The session sits naturally after the formal wrap-up, preserving space for any remaining points without disrupting the overall flow. It supports a calm and adaptable close to the program.",
       "_image_candidates_validated": true
     },
     {
@@ -1628,8 +1628,8 @@
       "category": "Other",
       "status": "Confirmed",
       "briefing_book_disc": "This session focuses on End. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "A warm close to the Bengaluru ICC experience leaving leaders with lasting memories of human connection, bold technology, and Takeda’s shared commitment to building a brighter, more innovative future together.",
-      "narration_script": "Day 3 - End. A warm close to the Bengaluru ICC experience leaving leaders with lasting memories of human connection, bold technology, and Takeda’s shared commitment to building a brighter, more innovative future together.",
+      "display_description": "The visit concludes with a warm close to the Bengaluru ICC experience, leaving leaders with lasting memories of human connection, bold technology, and Takeda’s shared commitment to building a brighter, more innovative future together. It serves as a reflective ending to the broader program. This final moment brings the agenda to a graceful close and reinforces the spirit of the visit. It provides a memorable finish to the overall experience.",
+      "narration_script": "Day 3 - End. The visit concludes with a warm close to the Bengaluru ICC experience, leaving leaders with lasting memories of human connection, bold technology, and Takeda’s shared commitment to building a brighter, more innovative future together. It serves as a reflective ending to the broader program. This final moment brings the agenda to a graceful close and reinforces the spirit of the visit. It provides a memorable finish to the overall experience.",
       "_image_candidates_validated": true
     }
   ]
